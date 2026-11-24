@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Rotuwam";
+    src: url(font/Rotuwam-Regular.otf) format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: "Rotuwam", serif;
+}
+
+#rotu-image {
+    max-width: 150px;
+    margin-bottom: 0;
+}
+
+.logo {
+    text-align: center;
+    margin-top: 200px;
+}
+
+#logo-name {
+    color: #d61200;
+    margin-top: 0;
+}
+
+.quote {
+    text-align: center;
+    color: #000000;
+}
+
+.tight {
+    margin: 0;
+    font-weight: bold;
+}
